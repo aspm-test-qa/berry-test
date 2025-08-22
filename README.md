@@ -16,7 +16,7 @@
 
 ---
 
-Yarn is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions:
+Yarns is a modern package manager split into various packages. Its novel architecture allows to do things currently impossible with existing solutions:
 
 - Yarn supports [plugins](https://yarnpkg.com/features/extensibility); adding a plugin is as simple as adding it into your repository
 - Yarn supports Node by default but isn't limited to it - plugins can add support for other languages
